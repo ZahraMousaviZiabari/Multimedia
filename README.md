@@ -1,2 +1,2 @@
 # Multimedia
-This repository includes some useful course project for image processing that I solved and implemented by MATLAB.
+This repository includes some fundamental course projects for image processing that I solvead and implemented by MATLAB.
